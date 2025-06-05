@@ -87,7 +87,7 @@ User with `id` of '1234' sets their name, passing `UAPP` header of 'ios1_2':
 ```json
 {
     "first_name": [
-        "Please provide maximum 30 character or empty string",
+        "Please provide a maximum of 30 characters or an empty string",
     ]
 }
 ```

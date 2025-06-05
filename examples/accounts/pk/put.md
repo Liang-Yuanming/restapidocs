@@ -68,7 +68,7 @@ posted to `/api/accounts/123/`...
 Endpoint will ignore irrelevant and read-only data such as parameters that
 don't exist, or `id` and `enterprise` fields which are not editable.
 
-E.g. if Account already exits:
+E.g. if Account already exists:
 
 **Data example**
 
