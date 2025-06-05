@@ -19,7 +19,7 @@ Includes their own Account if they have one.
 
 **Code** : `200 OK`
 
-**Content** : `{[]}`
+**Content** : `[]`
 
 ### OR
 

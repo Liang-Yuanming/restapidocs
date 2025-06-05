@@ -57,7 +57,7 @@ Provide name of Account to be created.
 
 ### Or
 
-**Condition** : If fields are missed.
+**Condition** : If required fields are missing.
 
 **Code** : `400 BAD REQUEST`
 
